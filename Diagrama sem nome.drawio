@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0" version="24.7.16">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="8104" dy="4132" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="1">
+    <mxGraphModel dx="4777" dy="2188" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -837,6 +837,11 @@
             <mxPoint x="-1734.2075471698113" y="854" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="1fdln2o8--g4scYQkoyz-33" value="P_NRO_SOLICIT" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="1fdln2o8--g4scYQkoyz-11">
+          <mxGeometry x="-0.237" y="-5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="1fdln2o8--g4scYQkoyz-8" value="Atualiza registros na tabela AD_RETORNO_INT com os valores P_TIPO, P_TIPO_FAT, NRO_OS e REVENDA." style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-2024" y="827.5" width="210" height="94" as="geometry" />
         </mxCell>
@@ -862,7 +867,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1fdln2o8--g4scYQkoyz-16" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;PROC_RETORNO_TAREFAS&lt;/span&gt;&#xa;&#xa;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="-1750" y="849.5" width="287" height="60" as="geometry" />
+          <mxGeometry x="-1673" y="849.5" width="225" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1fdln2o8--g4scYQkoyz-19" style="edgeStyle=none;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="1fdln2o8--g4scYQkoyz-24" target="1fdln2o8--g4scYQkoyz-22">
           <mxGeometry relative="1" as="geometry">
