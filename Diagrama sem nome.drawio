@@ -25,7 +25,7 @@
         <mxCell id="9n_BfSxp-osWQLRvpMug-47" value="FICHA DE SEGUIMENTO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2">
           <mxGeometry x="340" y="82" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9n_BfSxp-osWQLRvpMug-49" value="PREENCHE PEÇAS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2">
+        <mxCell id="9n_BfSxp-osWQLRvpMug-49" value="PREENCHE PEÇAS E MÃO DE OBRA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2">
           <mxGeometry x="340" y="222" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9n_BfSxp-osWQLRvpMug-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2" source="9n_BfSxp-osWQLRvpMug-63" target="9n_BfSxp-osWQLRvpMug-64">
@@ -67,13 +67,13 @@
         <mxCell id="9n_BfSxp-osWQLRvpMug-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="3" source="9n_BfSxp-osWQLRvpMug-58" target="9n_BfSxp-osWQLRvpMug-60">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9n_BfSxp-osWQLRvpMug-58" value="PREENCHE AGENDAMENTOS" style="whiteSpace=wrap;html=1;" vertex="1" parent="3">
+        <mxCell id="9n_BfSxp-osWQLRvpMug-58" value="PREENCHE APONTAMENTOS" style="whiteSpace=wrap;html=1;" vertex="1" parent="3">
           <mxGeometry x="260" y="92" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9n_BfSxp-osWQLRvpMug-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="3" source="9n_BfSxp-osWQLRvpMug-60" target="9n_BfSxp-osWQLRvpMug-72">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9n_BfSxp-osWQLRvpMug-60" value="..." style="whiteSpace=wrap;html=1;" vertex="1" parent="3">
+        <mxCell id="9n_BfSxp-osWQLRvpMug-60" value="COLETA ASSINATURA DO CLIENTE" style="whiteSpace=wrap;html=1;" vertex="1" parent="3">
           <mxGeometry x="260" y="232" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9n_BfSxp-osWQLRvpMug-72" value="OS ENCERRADA" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="3">
